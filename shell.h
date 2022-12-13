@@ -1,6 +1,12 @@
 #ifndef _SHELL_H_
 #define _SHELL_H_
 
+/**
+ * File - shell.h
+ * Auth: David Kelvin
+ *	 Daniel John
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
